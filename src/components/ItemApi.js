@@ -3,92 +3,105 @@ const ItemApi = [
         id : 1,
         title : "Pizza",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 200
+        imagesrc : "images/pizza.jpg",
+        prize : 200,
+        time : "dinner"
     },
     {
         id : 2,
-        title : "Pizza",
+        title : "Burger",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 400
+        imagesrc : "images/burger.jpg",
+        prize : 400,
+        time : "lunch"
     },
     {
         id : 3,
-        title : "Pizza",
+        title : "Pasta",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 300
+        imagesrc : "images/pasta.jpg",
+        prize : 300,
+        time : "lunch"
     },
     {
         id : 4,
-        title : "Pizza",
+        title : "French Fries",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 600
+        imagesrc : "images/frenchfries.jpg",
+        prize : 600,
+        time : "breakfast"
     },
     {
         id : 5,
-        title : "Pizza",
+        title : "Dosa",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 500
+        imagesrc : "images/dosa.jpg",
+        prize : 500,
+        time : "dinner"
     },
     {
         id : 6,
-        title : "Pizza",
+        title : "Idli",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 100
+        imagesrc : "images/idli.jpg",
+        prize : 100,
+        time : "breakfast"
     },
     {
         id : 7,
-        title : "Pizza",
+        title : "Dabeli",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 50
+        imagesrc : "images/dabeli.jpg",
+        prize : 50,
+        time : "lunch"
     },
     {
         id : 8,
-        title : "Pizza",
+        title : "Vada Pav",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 320
+        imagesrc : "images/vadapav.jpg",
+        prize : 320,
+        time : "lunch"
     },
     {
         id : 9,
-        title : "Pizza",
+        title : "Pani Puri",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 780
+        imagesrc : "images/panipuri.jpg",
+        prize : 780,
+        time : "breakfast"
     },
     {
         id : 10,
-        title : "Pizza",
+        title : "Sandwich",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 560
+        imagesrc : "images/sandwich.jpg",
+        prize : 560,
+        time : "lunch"
     },
     {
         id : 11,
-        title : "Pizza",
+        title : "Maggi",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 440
+        imagesrc : "images/maggi.jpg",
+        prize : 440,
+        time : "breakfast"
     },
     {
         id : 12,
-        title : "Pizza",
+        title : "Momos",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 240
+        imagesrc : "images/momos.jpg",
+        prize : 240,
+        time : "dinner"
     },
     {
         id : 13,
-        title : "Pizza",
+        title : "Ice cream",
         desc : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse dolorum ullam, at amet distinctio repellendus qui sapiente corporis et neque placeat a sed porro rerum alias quas tenetur doloremque dolorem.",
-        image : "images/pizza.jpg",
-        prize : 190
+        imagesrc : "images/icecream.jpg",
+        prize : 190,
+        time : "dinner"
     }
 ]
 
